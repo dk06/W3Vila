@@ -1,0 +1,220 @@
+
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+	body{
+		background-color: #e8ecef;
+	}
+ }
+ body{
+		background-color: #e8ecef;
+	}
+
+.container{
+	background-color: #ffffff;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul .floatleft {
+    float:left;
+}
+ul .floatright {
+    float:right;
+}
+
+ul li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.google-icon{
+	height: 25px;
+	width: 25px;
+}
+.google-icon-pluse{
+	height: 40px;
+	width: 40px;
+}
+
+.first-image{
+	height: auto;
+	width: 100%;
+	background-repeat: no-repeat;
+    background-size: 100% 100%;	
+}
+
+.about{
+	padding: 80px 80px 80px 80px;
+	background-color: #e5e0e0;
+}
+
+.expertise{
+	padding: 80px 80px 80px 80px;
+	text-align: justify;
+}
+.h-text{
+	padding: 12px 12px 12px 12px;
+	font-size: 45px;
+}
+
+.p-text{
+	padding: 30px 25px 30px 25px;
+	text-align: justify;
+}
+
+.progress-section{
+	margin: 45px 45px 45px 45px;
+}
+.progress-p-section{
+	margin: 40px 13px 40px 13px;
+}
+.gicon-pluse{
+	margin-top: -30px;
+	margin-left: 70px;
+}
+.gicon-pluse-section{
+	margin: 40px 13px 40px 13px;
+	padding-left: 0px;
+}
+.magic-section{
+	padding: 0px 0px 0px 0px;
+}
+.magic{
+	padding: 55px 55px 55px 55px;
+	background-color: #e5e0e0;
+	text-align: justify;
+}
+.magic-text{
+	padding: 30px 30px 30px 30px;
+	font-size: 45px;
+}
+
+.border-line{
+	border-top: 3px solid #f7ec0c;
+  	width: 50px;
+  	margin-top: 12px;
+}
+.magic-image{
+	height: 477px;
+	width: 100%;
+}
+
+ul .portfolioleft {
+    float:left;
+}
+ul .portfolioright {
+    float:right;
+    padding-top: 30px;
+}
+.protfolio-card{
+	margin: 5px 5px 5px 5px;
+	background-color: #e5e0e0;
+	width: 282px;
+	height: 282px;
+	float:left;
+}
+.portfolio{
+	padding :0px 0px 70px 0px;
+}
+.view-section{
+	padding: 20px 20px 20px 20px;
+	background-color: #e5e0e0;
+}
+.view-heading{
+	text-align: center;
+	margin-bottom: 0px;
+}
+.view-section-secand{
+	padding: 120px 170px 120px 170px;
+	text-align: center;
+}
+.view-image{
+	height: 290px;
+	width: 100%;
+	background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.view-price{
+	margin: 0px 65px 0px 65px;
+	font-size: 35px;
+}
+.view-text{
+	color: #0cd7f7;
+	margin: 0px 50px 0px 50px;
+	font-size: 9px;
+	text-align: justify;
+}
+.vew-price-div{
+	float: left;
+}
+.our-team-section{
+	padding: 80px 80px 160px 80px;
+}
+.our-team{
+	padding :12px 12px 12px 12px;
+}
+.our-team-card{
+	margin: 15px 15px 15px 15px;
+	background-color: #e5e0e0;
+	width: 298px;
+	height: 298px;
+	float:left;
+}
+.pricing-section{
+	padding: 80px 80px 160px 80px;
+	background-color: #e5e0e0;
+}
+.pricing-plans{
+	padding :12px 40px 12px 40px;
+}
+.pricing-plans-card{
+	margin: 15px 15px 15px 15px;
+	background-color: #ffffff;
+	width: 280px;
+	height: 400px;
+	float:left;
+}
+.touch{
+	padding: 80px 80px 80px 80px;
+}
+.touch-form{
+	padding: 14px;
+    display: block;
+    border: none;
+    border-bottom: 4px solid #000;
+    width: 100%;
+}
+.touch-map{
+	width: 103%;
+    height: 640px;
+}
+.touch-button{
+	background-color: #797c7c;
+	border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.footer {
+	padding-top: 30px;
+   	background-color: #797c7c;
+   	color: #ffffff;
+   	text-align: center;
+}
+
